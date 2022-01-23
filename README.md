@@ -96,6 +96,8 @@ sudo kubeadm join.......   ## Take the join command from above
 
 ```
 
-
-
+### Step 6: Check if all the nodes are Ready
+```shell
+kubectl get nodes
+```
 
