@@ -33,7 +33,7 @@ vagrant ssh kubemaster
 
 ## Step 5: Install all the binaries and create a cluster
 
-#####On all 3 nodes, run the following commands
+##### On all 3 nodes, run the following commands
 ```shell
 #Disable the firewall
 sudo ufw disable
