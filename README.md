@@ -1,7 +1,8 @@
 ## K8S-Playground
+<p>
 Create a cluster using kubeadm with the VMs deployed on Apple Silicon with Vagrant
-
 Vagrant is used to deploy Ubuntu VMs on Apple silicon (Macbook Air 2020 M1)
+</p>
 
 ### Step 1 : Install vagrant.
 ```shell
