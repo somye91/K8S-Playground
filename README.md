@@ -12,6 +12,7 @@ brew install vagrant
 ```shell
 vagrant plugin install vagrant-vmware-desktop
 ```
+Aditionally you also would have to download and install vmware fusion from VMWARE website
 
 ### Step 3: Create 3 VMs (1 KubeMaster, 2 workers) using the Vagrantfile
 Make sure you download the Vagrantfile in your current working directory
