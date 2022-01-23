@@ -14,6 +14,7 @@ vagrant plugin install vagrant-vmware-desktop
 ```
 
 ### Step 3: Create 3 VMs (1 KubeMaster, 2 workers) using the Vagrantfile
+Make sure you download the Vagrantfile in your current working directory
 ```shell
 vagrant up --provider vmware_desktop
 ```
